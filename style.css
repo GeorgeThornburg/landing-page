@@ -34,7 +34,7 @@ body{
                                 height: 30%;
                                 justify-content: flex-start;        
                             }
-                                    .logo {text-decoration: none; font-size: 50px; color: white; padding-top: 5px;}
+                                    .logo {text-decoration: none; font-size: 2vw; color: white; padding-top: 5px;}
                                     
 
                             .block-one-b {
@@ -44,7 +44,7 @@ body{
                                 height: 30%;
                                 justify-content: flex-end;        
                             }
-                                    .nav {text-decoration: none; font-size: 25px; color: white; padding-top: 25px; padding-left: 28px;}
+                                    .nav {text-decoration: none; font-size: 1.2vw; color: white; padding-top: 25px; padding-left: 28px;}
 
                             .block-one-c {                                    
                                 display: flex;
@@ -52,9 +52,9 @@ body{
                                 height: 70%;
                                 flex-direction: column;        
                             }
-                                    .block-one-h1 {font-size: 60px; padding-right: 10px; color: whitesmoke;}
-                                    .block-one-p {font-size: 25px; padding-right: 10px; color: white;padding-top: 10px;}
-                                    .button {border-style: none; border-radius: 4px; background-color: rgb(133, 133, 240); font-size: 3px; width: 100px; margin-top: 25px; color: white; height: 50px;font-size: 24px;}
+                                    .block-one-h1 {font-size: 3vw; padding-right: 10px; color: whitesmoke;}
+                                    .block-one-p {font-size: 1.4vw; padding-right: 10px; color: white;padding-top: 10px;}
+                                    .button {border-style: none; border-radius: 4px; background-color: rgb(133, 133, 240); font-size: 3px; width: 100px; margin-top: 25px; color: white; height: 50px;font-size: 1.2vw;}
 
                             .block-one-d {                                    
                                 display: flex;
@@ -79,7 +79,7 @@ body{
             height: 25%;
             justify-content: center;
             align-items: center;}
-                .block-two-a-title {color: rgb(3, 2, 3); font-size: 50px;}
+                .block-two-a-title {color: rgb(3, 2, 3); font-size: 3vw;}
         .block-two-b {
             display: flex;
             width: 50%;
@@ -107,7 +107,7 @@ body{
                 .block-two-c-b {display: flex;  width: 153px; height: 150px;}
                 .block-two-c-c {display: flex;  width: 153px; height: 150px;}
                 .block-two-c-d {display: flex;  width: 153px; height: 150px;}
-                    .block-two-subtext{font-size: 20px; text-align: center;}   
+                    .block-two-subtext{font-size: 1.2vw; text-align: center;}   
 
 .block-three {
     background-color: rgba(255, 255, 255, 0.859);    
@@ -124,7 +124,7 @@ body{
         height: 50%;
         justify-content: flex-end;
         align-items: flex-end;
-        font-size: 52px;
+        font-size: 2.5vw;
         }
     .block-three-b {
         display: flex;
@@ -132,7 +132,7 @@ body{
         height: 30%;
         justify-content: flex-end;
         align-items: flex-start;
-        font-size: 30px;
+        font-size: 1.6vw;
         
         }
 
@@ -160,8 +160,8 @@ body{
             height: 40%;
             flex-direction: column;
         }
-            .block-four-main-top {font-size: 35px; color: white; font-weight: bold;}
-            .block-four-main-bottom {font-size: 20px; color: white;}
+            .block-four-main-top {font-size: 2vw; color: white; font-weight: bold;}
+            .block-four-main-bottom {font-size: 1vw; color: white;}
 
         .block-four-main-b {
             display: flex;            
@@ -173,10 +173,10 @@ body{
                 border-color: white;
                 background-color: rgb(91, 132, 227);
                 border-style: solid;
-                font-size: 34px;
+                font-size: 2vw;
                 border-radius: 6px;
                 border-width: .5px;
-                height: 50px;               
+                height: 3vw;               
             }
 
 .block-five {
